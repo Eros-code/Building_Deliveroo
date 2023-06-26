@@ -1,0 +1,29 @@
+.category-list {
+  list-style-type: none;
+}
+
+.category-list,
+li {
+  margin: 2px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.food-tile {
+  width: 24%;
+  border: black 2px solid;
+  border-radius: 5px;
+  margin-bottom: 1%;
+}
+
+.food-desc-list {
+  list-style-type: none;
+  height: 10px;
+}
+
+.food-desc-list,
+li {
+  margin: 2px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
